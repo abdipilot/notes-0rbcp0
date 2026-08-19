@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://abdipilot.github.io/notes-0rbcp0/sitemap.xml
